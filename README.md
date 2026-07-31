@@ -57,7 +57,7 @@ Fonte 4 – Ética e Desafios
 
 Título: Ética na Inteligência Artificial
 
-[Ética na Inteligência Artificial](./pdfs/etica_ia.pdf)
+[Ética na Inteligência Artificial](ID5584+e024020+Ética+na+inteligência+artificial.pdf)
 
 Objetivo: Identificar os principais desafios éticos, sociais e técnicos relacionados ao uso da Inteligência Artificial, como privacidade, transparência, vieses algorítmicos e responsabilidade.
 
