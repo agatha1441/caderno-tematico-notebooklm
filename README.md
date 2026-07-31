@@ -40,7 +40,7 @@ Fonte 2 – Inteligência Artificial na Ciência da Informação
 
 Título: Inteligência Artificial no Contexto da Ciência da Informação
 
-[Inteligência Artificial no Contexto da Ciência da Informação](Gestão_da_Informação.pdf)
+[Inteligência Artificial no Contexto da Ciência da Informação](Inteligência_artificial_no_contexto_da_Ciência_da_Informação.pdf)
 
 Objetivo: Entender como a Inteligência Artificial está sendo incorporada à Ciência da Informação e quais impactos ela provoca nos processos informacionais.
 
