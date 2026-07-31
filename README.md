@@ -26,7 +26,7 @@ Fonte 1 – Conceitos de Inteligência Artificial
 
 Título: Inteligência Artificial: Conceitos e Aplicações
 
-Link: file:///C:/Users/agatha/OneDrive/Desktop/bootcamp/ia_intro.pdf
+[Inteligência Artificial: Conceitos e Aplicações](./pdfs/ia_conceitos.pdf)
 
 Objetivo: Compreender os conceitos fundamentais da Inteligência Artificial, sua evolução histórica, principais técnicas e áreas de aplicação.
 
@@ -35,7 +35,7 @@ Fonte 2 – Inteligência Artificial na Ciência da Informação
 
 Título: Inteligência Artificial no Contexto da Ciência da Informação
 
-Link: file:///C:/Users/agatha/OneDrive/Desktop/bootcamp/9+-+FERNANDA+ALVES.pdf
+[Inteligência Artificial no Contexto da Ciência da Informação](./pdfs/ciencia_informacao.pdf)
 
 Objetivo: Entender como a Inteligência Artificial está sendo incorporada à Ciência da Informação e quais impactos ela provoca nos processos informacionais.
 
@@ -46,9 +46,9 @@ Título 1: Gestão da Informação: uma Revisão Sistemática da Literatura sobr
 
 Título 2: Aplicações de Inteligência Artificial para Gestão de Documentos: experimentações, potencialidades e desafios
 
-Link: file:///C:/Users/agatha/OneDrive/Desktop/bootcamp/015+-+Nonato+et+al.pdf
+[Gestão da Informação: uma Revisão Sistemática da Literatura](./pdfs/gestao_informacao.pdf)
 
-Link: file:///C:/Users/agatha/OneDrive/Desktop/bootcamp/10+56534+COM+DOI+2025+03+21.pdf
+[Aplicações de Inteligência Artificial para Gestão de Documentos](./pdfs/gestao_documentos.pdf)
 
 Objetivo: Compreender os processos da Gestão da Informação e analisar aplicações práticas da Inteligência Artificial na organização, tratamento e gestão de documentos.
 
@@ -57,7 +57,7 @@ Fonte 4 – Ética e Desafios
 
 Título: Ética na Inteligência Artificial
 
-Link: file:///C:/Users/agatha/OneDrive/Desktop/bootcamp/ID5584+e024020+%C3%89tica+na+intelig%C3%AAncia+artificial.pdf
+[Ética na Inteligência Artificial](./pdfs/etica_ia.pdf)
 
 Objetivo: Identificar os principais desafios éticos, sociais e técnicos relacionados ao uso da Inteligência Artificial, como privacidade, transparência, vieses algorítmicos e responsabilidade.
 
