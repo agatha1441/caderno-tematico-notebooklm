@@ -26,7 +26,7 @@ Fonte 1 – Conceitos de Inteligência Artificial
 
 Título: Inteligência Artificial: Conceitos e Aplicações
 
-[Inteligência Artificial: Conceitos e Aplicações](./pdfs/ia_conceitos.pdf)
+[Inteligência Artificial: Conceitos e Aplicações](ia_intro.pdf)
 
 Objetivo: Compreender os conceitos fundamentais da Inteligência Artificial, sua evolução histórica, principais técnicas e áreas de aplicação.
 
