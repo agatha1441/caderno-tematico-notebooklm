@@ -1,21 +1,32 @@
 # Inteligência Artificial aplicada à Gestão da Informação: conceitos, aplicações e desafios
 
-## Contexto
+## 🔗 NotebookLM
+
+Abaixo está uma captura de tela do caderno temático desenvolvido no NotebookLM.
+
+![NotebookLM](images/notebooklm.png)
+
+📌 **Acesse o caderno temático:**
+
+https://notebook.google.com/notebook/19edc0f6-7b4d-41ad-a847-7eeba8873154
+
+##  Contexto
 
 Escolhi o tema "Inteligência Artificial aplicada à Gestão da Informação: conceitos, aplicações e desafios" por estar diretamente relacionado à área de Ciência da Informação e ao crescente uso da Inteligência Artificial em processos de organização, recuperação e análise da informação. Além disso, o tema é atual e relevante para minha formação acadêmica, permitindo compreender como as tecnologias de IA podem apoiar profissionais da informação e contribuir para uma gestão mais eficiente, sem deixar de considerar os desafios éticos e técnicos envolvidos.
 
 ## Objetivos
 
-Objetivo Geral
+###  Objetivo Geral
 
 Compreender como a Inteligência Artificial pode ser aplicada à Gestão da Informação, identificando seus principais conceitos, aplicações, benefícios e desafios por meio da utilização do NotebookLM como ferramenta de apoio aos estudos.
 
-Objetivos Específicos
-Estudar os conceitos fundamentais de Inteligência Artificial.
-Compreender os processos da Gestão da Informação e sua relação com a IA.
-Identificar aplicações práticas da Inteligência Artificial na organização, recuperação e uso da informação.
-Analisar os principais desafios éticos, técnicos e profissionais relacionados ao uso da IA.
-Desenvolver habilidades de curadoria de fontes, engenharia de prompts e pensamento crítico utilizando o NotebookLM.
+### Objetivos Específicos
+
+- Estudar os conceitos fundamentais de Inteligência Artificial.
+- Compreender os processos da Gestão da Informação e sua relação com a IA.
+- Identificar aplicações práticas da Inteligência Artificial na organização, recuperação e uso da informação.
+- Analisar os principais desafios éticos, técnicos e profissionais relacionados ao uso da IA.
+- Desenvolver habilidades de curadoria de fontes, engenharia de prompts e pensamento crítico utilizando o NotebookLM.
 
 ## Curadoria de Fontes
 
@@ -79,10 +90,10 @@ Analise todas as fontes carregadas e explique como elas se relacionam com o tema
 
 Organize a resposta em quatro partes:
 
-Conceitos fundamentais de Inteligência Artificial;
-Fundamentos da Gestão da Informação;
-Aplicações práticas da Inteligência Artificial;
-Desafios, riscos e aspectos éticos.
+- Conceitos fundamentais de Inteligência Artificial;
+- Fundamentos da Gestão da Informação;
+- Aplicações práticas da Inteligência Artificial;
+- Desafios, riscos e aspectos éticos.
 
 Para cada parte, indique quais fontes foram utilizadas. Responda exclusivamente com base nas fontes carregadas.
 
@@ -92,7 +103,7 @@ Com base exclusivamente na fonte sobre Inteligência Artificial, identifique e e
 
 Prompt 3 – Aplicações na Gestão da Informação
 
-Com base exclusivamente na fonte sobre Gestão da Informação, explique o que é Gestão da Informação e quais são seus principais processos. Organize a resposta considerando a produção, coleta, organização, armazenamento, recuperação, disseminação e uso da informação, caso esses processos estejam presentes na fonte.Com base exclusivamente na fonte sobre Gestão da Informação, explique o que é Gestão da Informação e quais são seus principais processos. Organize a resposta considerando a produção, coleta, organização, armazenamento, recuperação, disseminação e uso da informação, caso esses processos estejam presentes na fonte.
+Com base exclusivamente na fonte sobre Gestão da Informação, explique o que é Gestão da Informação e quais são seus principais processos. Organize a resposta considerando a produção, coleta, organização, armazenamento, recuperação, disseminação e uso da informação, caso esses processos estejam presentes na fonte.
 
 Prompt 4 – Desafios e aspectos éticos
 
@@ -100,13 +111,13 @@ Prompt 4 – Desafios e aspectos éticos
 
 Organize a resposta em:
 
-Aplicações da IA;
+- Aplicações da IA;
 
-Transformações organizacionais;
+- Transformações organizacionais;
 
-Relação com dados e informações;
+- Relação com dados e informações;
 
-Gestão da inovação;
+- Gestão da inovação;
 
 Impactos profissionais e organizacionais.
 
@@ -116,17 +127,17 @@ Diferencie as informações diretamente apresentadas no vídeo das possíveis in
 
 Organize a resposta nas seguintes categorias:
 
-desafios éticos;
+- desafios éticos;
 
-desafios técnicos;
+- desafios técnicos;
 
-privacidade e proteção de dados;
+- privacidade e proteção de dados;
 
-vieses e discriminação;
+- vieses e discriminação;
 
-transparência e explicabilidade;
+- transparência e explicabilidade;
 
-impactos profissionais e sociais.
+- impactos profissionais e sociais.
 
 Indique a fonte utilizada para cada informação.
 
@@ -134,15 +145,15 @@ Prompt 5 – Comparação das fontes
 
 5.1 Compare as quatro fontes carregadas e identifique:
 
-Quais conceitos aparecem em mais de uma fonte;
+- Quais conceitos aparecem em mais de uma fonte;
 
-Quais informações são complementares;
+- Quais informações são complementares;
 
-Quais relações existem entre Inteligência Artificial e Gestão da Informação;
+- Quais relações existem entre Inteligência Artificial e Gestão da Informação;
 
-Quais aplicações práticas são apresentadas;
+- Quais aplicações práticas são apresentadas;
 
-Quais riscos e desafios são destacados.
+- Quais riscos e desafios são destacados.
 
 Organize a resposta em uma tabela com as colunas:
 Tema | Fonte relacionada | Principal contribuição | Relação com o tema do estudo.
@@ -151,13 +162,13 @@ Tema | Fonte relacionada | Principal contribuição | Relação com o tema do es
 
 Organize em:
 
-Afirmação;
+- Afirmação;
 
-Fonte que sustenta;
+- Fonte que sustenta;
 
-Evidência encontrada;
+- Evidência encontrada;
 
-Classificação: informação direta ou inferência.
+- Classificação: informação direta ou inferência.
 
 Prompt 6 – Miniguia de estudo
 
@@ -165,21 +176,21 @@ Prompt 6 – Miniguia de estudo
 
 Organize o material nas seguintes seções:
 
-Introdução;
+- Introdução;
 
-O que é Inteligência Artificial;
+- O que é Inteligência Artificial;
 
-O que é Gestão da Informação;
+- O que é Gestão da Informação;
 
-Relação entre Inteligência Artificial e Gestão da Informação;
+- Relação entre Inteligência Artificial e Gestão da Informação;
 
-Principais aplicações da IA na Gestão da Informação;
+- Principais aplicações da IA na Gestão da Informação;
 
-Benefícios e oportunidades;
+- Benefícios e oportunidades;
 
-Desafios técnicos, éticos e profissionais;
+- Desafios técnicos, éticos e profissionais;
 
-Considerações finais.
+- Considerações finais.
 
 Utilize linguagem clara e didática. Indique as fontes utilizadas nas principais afirmações e não invente informações que não estejam presentes nas fontes.
 
@@ -187,24 +198,24 @@ Utilize linguagem clara e didática. Indique as fontes utilizadas nas principais
 
 Para cada conceito, apresente:
 
-termo;
+- termo;
 
-definição;
+- definição;
 
-relação com o tema estudado;
+- relação com o tema estudado;
 
-fonte utilizada.
+- fonte utilizada.
 
-Utilize linguagem clara e objetiva.
+- Utilize linguagem clara e objetiva.
 
 ##  Cicatrizes
 
 Durante a utilização do NotebookLM, foi necessário ajustar alguns prompts para obter respostas mais precisas e úteis para o estudo.
 
-. Prompt muito amplo: Os primeiros prompts geravam respostas muito gerais sobre Inteligência Artificial. Para melhorar a qualidade das respostas, os prompts passaram a especificar exatamente o que deveria ser explicado e como a resposta deveria ser organizada.
-. Uso das fontes: Em alguns momentos, as respostas não deixavam claro de qual material as informações haviam sido obtidas. Por isso, os prompts foram ajustados para solicitar que o NotebookLM utilizasse exclusivamente as fontes carregadas e indicasse quais delas fundamentavam cada tópico.
-. Organização das respostas: Inicialmente, as respostas eram apresentadas em texto contínuo. Para facilitar o estudo, os prompts passaram a solicitar divisões por tópicos, categorias e conceitos.
-. Construção do material final: Ao longo do processo, foram elaborados novos prompts para gerar um miniguia de estudo e um glossário, tornando o conteúdo mais organizado e reutilizável para futuras revisões.s.
+- Prompt muito amplo: Os primeiros prompts geravam respostas muito gerais sobre Inteligência Artificial. Para melhorar a qualidade das respostas, os prompts passaram a especificar exatamente o que deveria ser explicado e como a resposta deveria ser organizada.
+- Uso das fontes: Em alguns momentos, as respostas não deixavam claro de qual material as informações haviam sido obtidas. Por isso, os prompts foram ajustados para solicitar que o NotebookLM utilizasse exclusivamente as fontes carregadas e indicasse quais delas fundamentavam cada tópico.
+- Organização das respostas: Inicialmente, as respostas eram apresentadas em texto contínuo. Para facilitar o estudo, os prompts passaram a solicitar divisões por tópicos, categorias e conceitos.
+- Construção do material final: Ao longo do processo, foram elaborados novos prompts para gerar um miniguia de estudo e um glossário, tornando o conteúdo mais organizado e reutilizável para futuras revisões.s.
 
 ## Miniguia de Estudo
 
