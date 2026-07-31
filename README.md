@@ -48,7 +48,7 @@ Título 2: Aplicações de Inteligência Artificial para Gestão de Documentos: 
 
 [Gestão da Informação: uma Revisão Sistemática da Literatura](015+-+Nonato+et+al.pdf)
 
-[Aplicações de Inteligência Artificial para Gestão de Documentos](./pdfs/gestao_documentos.pdf)
+[Aplicações de Inteligência Artificial para Gestão de Documentos](10+56534+COM+DOI+2025+03+21.pdf)
 
 Objetivo: Compreender os processos da Gestão da Informação e analisar aplicações práticas da Inteligência Artificial na organização, tratamento e gestão de documentos.
 
