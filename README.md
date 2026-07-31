@@ -51,7 +51,7 @@ Título 1: Gestão da Informação: uma Revisão Sistemática da Literatura sobr
 
 Título 2: Aplicações de Inteligência Artificial para Gestão de Documentos: experimentações, potencialidades e desafios
 
-[Gestão da Informação: uma Revisão Sistemática da Literatura](015+-+Nonato+et+al.pdf)
+[Gestão da Informação: uma Revisão Sistemática da Literatura](Gestão_da_Informação.pdf)
 
 [Aplicações de Inteligência Artificial para Gestão de Documentos](10+56534+COM+DOI+2025+03+21.pdf)
 
