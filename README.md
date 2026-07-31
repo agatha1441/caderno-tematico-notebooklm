@@ -21,31 +21,52 @@ Desenvolver habilidades de curadoria de fontes, engenharia de prompts e pensamen
 
 Para o desenvolvimento deste caderno temático, foram selecionadas fontes acadêmicas e um vídeo de caráter educativo que abordam diferentes perspectivas da Inteligência Artificial aplicada à Gestão da Informação. As fontes foram carregadas no NotebookLM para apoiar a construção dos resumos, análises e demais atividades propostas.
 
+
 Fonte 1 – Conceitos de Inteligência Artificial
+
 Título: Inteligência Artificial: Conceitos e Aplicações
+
 Link: file:///C:/Users/agatha/OneDrive/Desktop/bootcamp/ia_intro.pdf
+
 Objetivo: Compreender os conceitos fundamentais da Inteligência Artificial, sua evolução histórica, principais técnicas e áreas de aplicação.
 
+
 Fonte 2 – Inteligência Artificial na Ciência da Informação
+
 Título: Inteligência Artificial no Contexto da Ciência da Informação
+
 Link: file:///C:/Users/agatha/OneDrive/Desktop/bootcamp/9+-+FERNANDA+ALVES.pdf
+
 Objetivo: Entender como a Inteligência Artificial está sendo incorporada à Ciência da Informação e quais impactos ela provoca nos processos informacionais.
 
+
 Fonte 3 – Gestão da Informação e Gestão de Documentos
+
 Título 1: Gestão da Informação: uma Revisão Sistemática da Literatura sobre Teorias, Modelos e Metodologias
+
 Título 2: Aplicações de Inteligência Artificial para Gestão de Documentos: experimentações, potencialidades e desafios
+
 Link: file:///C:/Users/agatha/OneDrive/Desktop/bootcamp/015+-+Nonato+et+al.pdf
+
 Link: file:///C:/Users/agatha/OneDrive/Desktop/bootcamp/10+56534+COM+DOI+2025+03+21.pdf
+
 Objetivo: Compreender os processos da Gestão da Informação e analisar aplicações práticas da Inteligência Artificial na organização, tratamento e gestão de documentos.
 
+
 Fonte 4 – Ética e Desafios
+
 Título: Ética na Inteligência Artificial
+
 Link: file:///C:/Users/agatha/OneDrive/Desktop/bootcamp/ID5584+e024020+%C3%89tica+na+intelig%C3%AAncia+artificial.pdf
+
 Objetivo: Identificar os principais desafios éticos, sociais e técnicos relacionados ao uso da Inteligência Artificial, como privacidade, transparência, vieses algorítmicos e responsabilidade.
 
 Fonte Complementar
+
 Título: Inteligência Artificial, Transformação Digital e Gestão da Inovação
+
 Link: https://www.youtube.com/watch?v=zd8rbpFo4dA
+
 Objetivo: Complementar os estudos com uma visão prática sobre a aplicação da Inteligência Artificial no contexto da transformação digital, da inovação e das organizações.
 
 ## Engenharia de Prompts
