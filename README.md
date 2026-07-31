@@ -1,11 +1,5 @@
 # Inteligência Artificial aplicada à Gestão da Informação: conceitos, aplicações e desafios
 
-## 🔗 NotebookLM
-
-Abaixo está uma captura de tela do caderno temático desenvolvido no NotebookLM.
-
-![NotebookLM](images/notebooklm.png)
-
 📌 **Acesse o caderno temático:**
 
 https://notebook.google.com/notebook/19edc0f6-7b4d-41ad-a847-7eeba8873154
